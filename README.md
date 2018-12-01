@@ -1,6 +1,17 @@
 # Optical Recognition  App
 <br>
-<div style="text-align: center">Real time object detection game </div>
+<p align="center">Real time object detection game </p>
+
+
+<p align='center'>
+  <img src='https://github.com/MohamedDer/OpticalRecognition-Demo/blob/master/Screenshots/laptop.png' width="300">  
+  <img src='https://github.com/MohamedDer/OpticalRecognition-Demo/blob/master/Screenshots/laptop2.png' width="300">  
+  <img src='https://github.com/MohamedDer/OpticalRecognition-Demo/blob/master/Screenshots/watch.png' width="300">  
+  <img src='https://github.com/MohamedDer/OpticalRecognition-Demo/blob/master/Screenshots/watch2.png' width="300"> 
+</p>
+
+
+
 
 ## Inspiration
 
@@ -24,7 +35,7 @@ Improve the UI/UX. Add a countdown to make it more competitive. And why not to p
 
 ## Use instruction
 
-Please download and copy [InceptionV3 Machine Learning Model] (https://developer.apple.com/machine-learning/build-run-models/) to the project file
+Please download and copy [InceptionV3 Machine Learning Model] (https://developer.apple.com/machine-learning/build-run-models/) to the project directory
 
 ## About 
 
